@@ -12,6 +12,7 @@ public class App
       System.out.println("Hello");   
       for(int i=0; i<10; i++){
           log.log(Level.INFO, "My first Log Message");
+          log.log(Level.debug,"MKK");
       }
     }
 }
