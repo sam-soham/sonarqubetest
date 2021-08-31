@@ -13,6 +13,7 @@ public class App
       for(int i=0; i<10; i++){
           log.log(Level.INFO, "My first Log Message");
       }
+      Syatem.out.println("HU");
     }
 }
 
